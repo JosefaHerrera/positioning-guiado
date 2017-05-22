@@ -23,6 +23,10 @@ body{
 }
 #azul{
 	background-color: #2B7DB9;
+	/*para mover el cuadrado azul, ocuparemos position: relative;, para que pueda moverse bajo sus coordenadas*/
+	position: relative;
+	/*muevete 200px a la derecha*/
+	left: 200px;
 }
 #verde{
 	background-color: #B7D84B;
