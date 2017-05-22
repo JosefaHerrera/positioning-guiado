@@ -22,17 +22,25 @@ body{
 /*id de caja especifica con diferentes detalles */
 #rosa{
 	background-color: #EE3E64;
+	left:0;
+	top:0;
 }
 #azul{
 	background-color: #2B7DB9;
+	right:0;
+	top: 0;
 	/*para mover el cuadrado azul, ocuparemos position: relative;, para que pueda moverse bajo sus coordenadas
 	position: relative;*/
 	/*muevete 200px a la izquierda*/
-	left: 200px;
+	
 }
 #verde{
 	background-color: #B7D84B;
+	left:0;
+	bottom: 0;
 }
-#amarillo{
-	background-color:  #FAFF16;
+#amarilla{
+	background-color:#FAFF16;
+	right: 0;
+	bottom: 0;
 }
