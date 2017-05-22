@@ -25,6 +25,9 @@ body{
 }
 #azul{
 	background-color: #2B7DB9;
+	azul.style.position = "absolute";
+	azul.style.top = "250px";
+	azul.style.right= "0";
 	
 }
 #verde{
@@ -35,3 +38,4 @@ body{
 	background-color:#FAFF16;
 	
 }
+
