@@ -1,15 +1,23 @@
 body{
+	/*margen*/
 	margin:0;
+	/*relleno*/
 	padding:0;
 }
+
+/*contenedor de cajas*/
 .contenedor{
+	/*margen*/
 	margin:0;
+	/*relleno*/
 	padding:0;
 }
+/*dimesion de todas las cajas (.class="caja")*/
 .caja{
 	width:200px;
 	height: 200px;
 }
+/*id de caja especifica con diferentes detalles */
 #rosa{
 	background-color: #EE3E64;
 }
