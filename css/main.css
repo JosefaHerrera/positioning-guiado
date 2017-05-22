@@ -16,6 +16,8 @@ body{
 .caja{
 	width:200px;
 	height: 200px;
+	/*agregando posision absoluta, se define en relacion a los bordes */
+	position: absolute;
 }
 /*id de caja especifica con diferentes detalles */
 #rosa{
